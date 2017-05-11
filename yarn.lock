@@ -323,9 +323,9 @@ string_decoder@~1.0.0:
   dependencies:
     buffer-shims "~1.0.0"
 
-superagent-cache-plugin@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/superagent-cache-plugin/-/superagent-cache-plugin-1.0.2.tgz#b65f388cf2b9acc721b7157a1ed099f6ae3407f7"
+superagent-cache-plugin@jpodwys/superagent-cache-plugin#next:
+  version "2.0.0"
+  resolved "https://codeload.github.com/jpodwys/superagent-cache-plugin/tar.gz/c32ceccddb492a9a2d2043cf6fd73500e4a5d54b"
 
 superagent-defaults@^0.1.14:
   version "0.1.14"

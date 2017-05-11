@@ -7,7 +7,7 @@
     "cache-service-cache-module": "^1.2.5",
     "express": "^4.15.2",
     "superagent": "^3.5.2",
-    "superagent-cache-plugin": "^1.0.2",
-    "superagent-defaults": "^0.1.14"
+    "superagent-defaults": "^0.1.14",
+    "superagent-cache-plugin":"jpodwys/superagent-cache-plugin#next"
   }
 }
